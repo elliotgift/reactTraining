@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import img1 from "./images/img1.jpg"
 import img2 from "./images/img2.jpg"
-import img3 from "./images/img3.jpg"
+import img4 from "./images/img4.jpg"
 
 
 // adding props
@@ -19,24 +19,31 @@ const Person = ({img, name, job, children}) => {
     </article>
   );
 };
+
 const PersonList = () => {
   return (
     <section className="person-list">
       <Person img={22}name="Edinam" job="web developer"><img src={img1} alt="a lady"></img></Person>
           
       <Person img={12} name="Akos" job="Author"><img src={img2} alt="a lady"></img></Person>
+      
           
       <Person img={10} name="Gifty" job="Editor">
-          <img src={img3} alt="a lady"></img>
+          <img src={img4} alt="a lady"></img>
         <p>
           Gifty is the Editor at Edinam babes. She is the best at what she does.
         </p>
-      </Person>
-
-    </section>
+      </Person>);
+      
+      
+      
     
-  );
-};
+    </section> 
+        
+ 
+
+  
+  )};
 
 // now to create a component
 
