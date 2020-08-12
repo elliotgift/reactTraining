@@ -33,7 +33,27 @@ const PersonList = () => {
         <p>
           Gifty is the Editor at Edinam babes. She is the best at what she does.
         </p>
-      </Person>);
+      </Person>)
+      <Person img={22}name="Edinam" job="web developer"><img src={img1} alt="a lady"></img></Person>
+          
+      <Person img={12} name="Akos" job="Author"><img src={img2} alt="a lady"></img></Person>
+               
+      <Person img={10} name="Gifty" job="Editor">
+              <img src={img4} alt="a lady"></img>
+            <p>
+              Gifty is the Editor at Edinam babes. She is the best at what she does.
+            </p>
+          </Person>)
+      <Person img={22}name="Edinam" job="web developer"><img src={img1} alt="a lady"></img></Person>
+          
+      <Person img={12} name="Akos" job="Author"><img src={img2} alt="a lady"></img></Person>
+              
+      <Person img={10} name="Gifty" job="Editor">
+              <img src={img4} alt="a lady"></img>
+            <p>
+              Gifty is the Editor at Edinam babes. She is the best at what she does.
+            </p>
+          </Person>);
       
       
       
