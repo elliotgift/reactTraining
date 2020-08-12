@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/elliotgift/reactTraining/static/css/main.35d64166.chunk.css",
-    "main.js": "/elliotgift/reactTraining/static/js/main.bcfb9275.chunk.js",
-    "main.js.map": "/elliotgift/reactTraining/static/js/main.bcfb9275.chunk.js.map",
-    "runtime-main.js": "/elliotgift/reactTraining/static/js/runtime-main.c538da5f.js",
-    "runtime-main.js.map": "/elliotgift/reactTraining/static/js/runtime-main.c538da5f.js.map",
-    "static/js/2.0a57a6d4.chunk.js": "/elliotgift/reactTraining/static/js/2.0a57a6d4.chunk.js",
-    "static/js/2.0a57a6d4.chunk.js.map": "/elliotgift/reactTraining/static/js/2.0a57a6d4.chunk.js.map",
-    "index.html": "/elliotgift/reactTraining/index.html",
-    "precache-manifest.72a252dfebdcb16bc12567a6facdde01.js": "/elliotgift/reactTraining/precache-manifest.72a252dfebdcb16bc12567a6facdde01.js",
-    "service-worker.js": "/elliotgift/reactTraining/service-worker.js",
-    "static/css/main.35d64166.chunk.css.map": "/elliotgift/reactTraining/static/css/main.35d64166.chunk.css.map",
-    "static/js/2.0a57a6d4.chunk.js.LICENSE.txt": "/elliotgift/reactTraining/static/js/2.0a57a6d4.chunk.js.LICENSE.txt",
-    "static/media/img1.jpg": "/elliotgift/reactTraining/static/media/img1.7c72ad7b.jpg",
-    "static/media/img2.jpg": "/elliotgift/reactTraining/static/media/img2.deacf323.jpg",
-    "static/media/img3.jpg": "/elliotgift/reactTraining/static/media/img3.2f8afe5c.jpg"
+    "main.css": "/reactTraining/static/css/main.8b6a8172.chunk.css",
+    "main.js": "/reactTraining/static/js/main.8749a8f9.chunk.js",
+    "main.js.map": "/reactTraining/static/js/main.8749a8f9.chunk.js.map",
+    "runtime-main.js": "/reactTraining/static/js/runtime-main.46b5b13a.js",
+    "runtime-main.js.map": "/reactTraining/static/js/runtime-main.46b5b13a.js.map",
+    "static/js/2.0a57a6d4.chunk.js": "/reactTraining/static/js/2.0a57a6d4.chunk.js",
+    "static/js/2.0a57a6d4.chunk.js.map": "/reactTraining/static/js/2.0a57a6d4.chunk.js.map",
+    "index.html": "/reactTraining/index.html",
+    "precache-manifest.3ca8fd228aa135d618f8ee942a709b0b.js": "/reactTraining/precache-manifest.3ca8fd228aa135d618f8ee942a709b0b.js",
+    "service-worker.js": "/reactTraining/service-worker.js",
+    "static/css/main.8b6a8172.chunk.css.map": "/reactTraining/static/css/main.8b6a8172.chunk.css.map",
+    "static/js/2.0a57a6d4.chunk.js.LICENSE.txt": "/reactTraining/static/js/2.0a57a6d4.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/reactTraining/static/media/img1.7c72ad7b.jpg",
+    "static/media/img2.jpg": "/reactTraining/static/media/img2.deacf323.jpg",
+    "static/media/img4.jpg": "/reactTraining/static/media/img4.3c41edee.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c538da5f.js",
+    "static/js/runtime-main.46b5b13a.js",
     "static/js/2.0a57a6d4.chunk.js",
-    "static/css/main.35d64166.chunk.css",
-    "static/js/main.bcfb9275.chunk.js"
+    "static/css/main.8b6a8172.chunk.css",
+    "static/js/main.8749a8f9.chunk.js"
   ]
 }
